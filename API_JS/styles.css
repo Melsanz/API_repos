@@ -1,0 +1,59 @@
+*{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;  
+  width: 100%;
+  width: 100vh;
+  padding: 5px;
+  text-decoration: none;
+}
+.titulo{
+    background-color: aqua;
+    text-align: center;
+    border-radius: 10px;
+}
+.botoes{
+    align-items: center;
+    font-size: 20px;
+    text-decoration: none;
+}
+.exercicioG{
+    list-style: none;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: rgb(247, 176, 231);
+    position:relative;
+}
+.pratica{
+    list-style: none;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: rgb(247, 176, 231);
+    position:relative;
+}
+.exercicioH{
+    list-style: none;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: rgb(247, 176, 231);
+    position:relative;
+}
+.exercicioC{
+    list-style: none;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: rgb(247, 176, 231);
+    position:relative;
+}
+.portH{
+    list-style: none;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: rgb(247, 176, 231);
+    position:relative;
+}
+.portC{
+    list-style: none;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: rgb(247, 176, 231);
+    position:relative;
+}
